@@ -2,7 +2,7 @@
  {org.clojure/clojure {:mvn/version "1.7.0"},
   reagent {:mvn/version "0.6.0-rc"},
   secretary {:mvn/version "1.2.3"},
-  org.toomuchcode/clara-rules {:mvn/version "0.11.1"},
+  ;;org.toomuchcode/clara-rules {:mvn/version "0.11.1"},
   compojure {:mvn/version "1.4.0"},
   com.cognitect/transit-cljs {:mvn/version "0.8.239"},
   org.clojure/clojurescript {:mvn/version "1.7.228"},
